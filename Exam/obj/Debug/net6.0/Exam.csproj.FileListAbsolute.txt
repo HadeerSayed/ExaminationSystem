@@ -1,0 +1,45 @@
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\bin\Debug\net6.0\Exam.exe
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\bin\Debug\net6.0\Exam.deps.json
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\bin\Debug\net6.0\Exam.dll
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\bin\Debug\net6.0\Exam.pdb
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\obj\Debug\net6.0\Exam.dll
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\obj\Debug\net6.0\refint\Exam.dll
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\obj\Debug\net6.0\Exam.pdb
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\Exam\Exam\obj\Debug\net6.0\ref\Exam.dll
+C:\Users\Hadeer\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+C:\Users\Hadeer\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadeer\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+C:\Users\Hadeer\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+C:\Users\Hadeer\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Hadeer\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.dll
+C:\Users\Hadeer\Desktop\Exam\Exam\obj\Debug\net6.0\refint\Exam.dll
+C:\Users\Hadeer\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.pdb
+C:\Users\Hadeer\Desktop\Exam\Exam\bin\Debug\net6.0\Exam.exe
+C:\Users\Hadeer\Desktop\Exam\Exam\bin\Debug\net6.0\Exam.deps.json
+C:\Users\Hadeer\Desktop\Exam\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+C:\Users\Hadeer\Desktop\Exam\Exam\bin\Debug\net6.0\Exam.dll
+C:\Users\Hadeer\Desktop\Exam\Exam\bin\Debug\net6.0\Exam.pdb
+C:\Users\Hadeer\Desktop\Exam\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+C:\Users\Hadeer\Desktop\Exam\Exam\obj\Debug\net6.0\ref\Exam.dll
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\bin\Debug\net6.0\Exam.exe
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\bin\Debug\net6.0\Exam.deps.json
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\bin\Debug\net6.0\Exam.runtimeconfig.json
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\bin\Debug\net6.0\Exam.dll
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\bin\Debug\net6.0\Exam.pdb
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\obj\Debug\net6.0\Exam.csproj.AssemblyReference.cache
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\obj\Debug\net6.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\obj\Debug\net6.0\Exam.AssemblyInfoInputs.cache
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\obj\Debug\net6.0\Exam.AssemblyInfo.cs
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\obj\Debug\net6.0\Exam.csproj.CoreCompileInputs.cache
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\obj\Debug\net6.0\Exam.dll
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\obj\Debug\net6.0\refint\Exam.dll
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\obj\Debug\net6.0\Exam.pdb
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\obj\Debug\net6.0\Exam.genruntimeconfig.cache
+D:\ITI\.Net Track\Advanced C#\Labs\Day 3\ExamLastVersion\Exam\obj\Debug\net6.0\ref\Exam.dll

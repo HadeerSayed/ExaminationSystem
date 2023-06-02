@@ -1,0 +1,36 @@
+1- Which Access Modifier are allowed in The namespace
+a) Public,b) Protected,c) Internal,d) private
+2- What are types of classes
+a) Static,b) Concret,c) Virtual,d) Abstract
+3- Which class can have member functions without their implementation
+a) Default class,b) String class,c) Template class,d) Abstract class
+4- What is the scope of a class nested inside another class?
+a) Protected scope,b) Private scope,c) Global scope,d) Depends on access specifier and inheritance used
+5- Super classes are also called Parent classes/Base classes
+a)True,b)False
+6- It is not possible to achieve inheritance of structures in c#
+a)True,b)False
+1- Which Access Modifier are allowed in The namespace
+a) Public,b) Protected,c) Internal,d) private
+2- What are types of classes
+a) Static,b) Concret,c) Virtual,d) Abstract
+3- Which class can have member functions without their implementation
+a) Default class,b) String class,c) Template class,d) Abstract class
+4- What is the scope of a class nested inside another class?
+a) Protected scope,b) Private scope,c) Global scope,d) Depends on access specifier and inheritance used
+5- Super classes are also called Parent classes/Base classes
+a)True,b)False
+6- It is not possible to achieve inheritance of structures in c#
+a)True,b)False
+1- Which Access Modifier are allowed in The namespace
+a) Public,b) Protected,c) Internal,d) private
+2- What are types of classes
+a) Static,b) Concret,c) Virtual,d) Abstract
+3- Which class can have member functions without their implementation
+a) Default class,b) String class,c) Template class,d) Abstract class
+4- What is the scope of a class nested inside another class?
+a) Protected scope,b) Private scope,c) Global scope,d) Depends on access specifier and inheritance used
+5- Super classes are also called Parent classes/Base classes
+a)True,b)False
+6- It is not possible to achieve inheritance of structures in c#
+a)True,b)False
